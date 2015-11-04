@@ -1,4 +1,4 @@
-Dockerfile is available on GitHub.
+See this [yy-chr][1] container's [Dockerfile][2] on GitHub.
 
 I use a really simple bash script to run this container:
 
@@ -11,3 +11,6 @@ I use a really simple bash script to run this container:
       nullren/yy-chr
 
 Seems to work well for me.
+
+  [1]: https://hub.docker.com/r/nullren/yy-chr/
+  [2]: https://github.com/nullren/yy-chr-docker/
